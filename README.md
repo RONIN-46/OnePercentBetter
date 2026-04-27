@@ -1,2 +1,1 @@
-"# OnePercentBetter" 
-"# OnePercentBetter" 
+"# OnePercentBetter"
